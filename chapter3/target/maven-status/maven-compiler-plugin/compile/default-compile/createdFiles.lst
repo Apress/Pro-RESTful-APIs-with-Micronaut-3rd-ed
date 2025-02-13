@@ -1,0 +1,8 @@
+META-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/com.rest.model.$Message$Introspection
+com/rest/Application.class
+com/rest/controllers/$MessageController$Definition$Exec.class
+com/rest/controllers/$MessageController$Definition.class
+com/rest/controllers/MessageController.class
+com/rest/model/$Message$Introspection.class
+com/rest/model/Message.class
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/com.rest.controllers.$MessageController$Definition

@@ -1,0 +1,4 @@
+com/rest/MessageTest.class
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/com.rest.$MessageTest$Definition
+com/rest/$MessageTest$Definition$Exec.class
+com/rest/$MessageTest$Definition.class
